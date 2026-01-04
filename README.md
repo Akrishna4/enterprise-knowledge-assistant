@@ -206,7 +206,7 @@ streamlit run chat_ui.py
 ## Project Explanation Video
 
 📹 **Video Explanation Link:**
-👉 *Add your Google Drive or YouTube link here*
+https://drive.google.com/file/d/154_4wjEYe5TvlpmWUHENcpZSuFc2KpkK/view?usp=drive_link
 
 The video covers:
 
